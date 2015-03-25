@@ -1,1 +1,0 @@
-![Title of Image](http://placehold.it/300&text=map+of+nyc+schools)
